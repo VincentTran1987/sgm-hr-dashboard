@@ -1,0 +1,5101 @@
+{
+  "version": 1,
+  "generated": "2026-06-17T19:08:25.280Z",
+  "periods": [
+    {
+      "periodNum": 1,
+      "label": "Period 1 — May 29, 2026",
+      "cutoff": "2026-05-29T04:00:00.000Z",
+      "current": [
+        {
+          "id": "68",
+          "name": "Sanchez, Raul",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2010-07-05T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "89",
+          "name": "Park, Esther",
+          "store": "Charlotte",
+          "dept": "Administration",
+          "start": "2011-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "112",
+          "name": "Kim, John Jang Hoi",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2011-12-18T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "144",
+          "name": "Brito, Miguel E",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2012-06-05T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "162",
+          "name": "Lee, Saweng",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2012-11-12T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "282",
+          "name": "Valdez, Martha",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2015-11-09T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "283",
+          "name": "Vuong, Thanh",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2011-10-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "290",
+          "name": "Han, Minji",
+          "store": "Charlotte",
+          "dept": "Administration",
+          "start": "2016-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "299",
+          "name": "Adhikari, Sanjeeta",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2016-04-28T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "302",
+          "name": "Alzoriki, Fatima",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2016-05-25T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "343",
+          "name": "Llamosa Castaneda, Jose Luis",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2017-04-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "345",
+          "name": "Magdaleno, Mayra",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2017-04-23T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "357",
+          "name": "Hernandez, Isaias",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2017-09-07T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "362",
+          "name": "Gabriel, Rona",
+          "store": "Charlotte",
+          "dept": "Receiving",
+          "start": "2018-01-24T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "406",
+          "name": "Gallego Brito, Pedro Fernando",
+          "store": "Charlotte",
+          "dept": "Meat",
+          "start": "2018-10-17T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "423",
+          "name": "Chivalan Pu, Miguel Salomon",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2019-01-14T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "430",
+          "name": "Chimariya, Yani",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2019-02-18T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "441",
+          "name": "Guerrero, Cynthia",
+          "store": "Charlotte",
+          "dept": "Receiving",
+          "start": "2019-05-02T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "448",
+          "name": "Hanif, Mohammad",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2019-05-24T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "454",
+          "name": "Marroquin, Juditt",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2019-07-26T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "457",
+          "name": "Gutierrez, Idalia",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2019-08-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "461",
+          "name": "Bowick, William",
+          "store": "Charlotte",
+          "dept": "Administration",
+          "start": "2019-09-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "470",
+          "name": "Perez Marcos, Ricardo",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2019-12-10T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "502",
+          "name": "Brito, Angel",
+          "store": "Charlotte",
+          "dept": "Meat",
+          "start": "2020-08-24T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "528",
+          "name": "Velasco, Willy P",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2021-04-29T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "544",
+          "name": "Soryz, Christina",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2021-08-02T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "546",
+          "name": "Chivalan Raymundo, Antonio",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2021-08-29T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "571",
+          "name": "Terraza Hernandez, Nicolas Roly",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2022-01-19T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "586",
+          "name": "Perez Gallego, Miguel",
+          "store": "Charlotte",
+          "dept": "Seafood",
+          "start": "2022-02-22T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "604",
+          "name": "Ordonez Mendoza, Cynthia",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2022-06-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "608",
+          "name": "Corio Raymundo, Francisco",
+          "store": "Charlotte",
+          "dept": "Seafood",
+          "start": "2022-06-19T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "614",
+          "name": "Cedillo Gallego, Miguel",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2022-08-04T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "615",
+          "name": "Cedillo Gallego, Ana",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2022-08-10T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "641",
+          "name": "Gebru, Tsigherada Petros",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2023-03-13T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "643",
+          "name": "Santiago, Juan Eduardo",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2023-03-15T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "665",
+          "name": "Leon Morales, Heidy",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2024-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "669",
+          "name": "Desameaux, Buchron",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2024-02-21T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "675",
+          "name": "Ramirez Raymundo, Gaspar",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2024-05-28T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "676",
+          "name": "Giri, Roshni",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2024-05-31T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "679",
+          "name": "Desameau, Raynaldo",
+          "store": "Charlotte",
+          "dept": "Meat",
+          "start": "2024-07-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "680",
+          "name": "Honore, Michael",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2024-07-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "687",
+          "name": "Castro, Socorro",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2024-10-17T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "688",
+          "name": "Desameau, Micaisse",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2024-10-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "691",
+          "name": "Hernandez, Jordan",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2024-12-12T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "692",
+          "name": "Bernal Chaves, Jasinto",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2024-12-29T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "694",
+          "name": "Chivalan Raymundo, Nehemias Baltazar",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2024-12-29T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "695",
+          "name": "Joel, Andrina Soryz",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2025-02-13T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "697",
+          "name": "Desameau, Sonel",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2025-02-23T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "701",
+          "name": "Santiago, Cristobal Raymundo",
+          "store": "Charlotte",
+          "dept": "Seafood",
+          "start": "2025-04-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "704",
+          "name": "Jean Baptiste, Daniella",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2025-05-13T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "708",
+          "name": "Ixcotoyac, Isaias E",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2025-05-21T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "710",
+          "name": "Corio Raymundo, Gaspar",
+          "store": "Charlotte",
+          "dept": "Seafood",
+          "start": "2025-06-04T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "712",
+          "name": "Acevedo Maldonado, Monserrat",
+          "store": "Charlotte",
+          "dept": "Receiving",
+          "start": "2025-06-26T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "718",
+          "name": "Dorcelus, Jocelyne",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2025-09-04T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "720",
+          "name": "Abrego Oviedo, Bryan",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2025-09-04T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "723",
+          "name": "Hermoso Santiago, Emelia Teresa",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2025-09-22T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "724",
+          "name": "Ramirez, Sinthia Teresa",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2025-10-08T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "725",
+          "name": "Brito Brito, Miguel Brito",
+          "store": "Charlotte",
+          "dept": "Meat",
+          "start": "2025-10-17T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "726",
+          "name": "Auguste, Karold",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2025-10-21T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "730",
+          "name": "Gallego Brito, Jacinto Bernardino",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2025-11-03T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "732",
+          "name": "Maldonado, Maria Irma",
+          "store": "Charlotte",
+          "dept": "Seafood",
+          "start": "2025-11-28T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "736",
+          "name": "Martinez, Enrique Pérez",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2026-01-20T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "738",
+          "name": "Brito Chavez, Magdalena Emilca",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2026-04-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "739",
+          "name": "Alvarez-Luna, Joslyn",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2026-04-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "740",
+          "name": "Pickett, Janias Jahnari",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2026-04-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "741",
+          "name": "Trinidad, Jorge Manuel",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2026-05-25T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "31",
+          "name": "Patel, Manisha D",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2008-07-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "63",
+          "name": "Guzman Rivera, Carlos Roberto",
+          "store": "Greensboro",
+          "dept": "Meat",
+          "start": "2011-03-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "66",
+          "name": "Choi, Sun Jeong",
+          "store": "Greensboro",
+          "dept": "Administration",
+          "start": "2011-03-21T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "73",
+          "name": "Herrera, Elmer",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2012-02-17T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "86",
+          "name": "Thach, Sam",
+          "store": "Greensboro",
+          "dept": "Maintenance",
+          "start": "2012-10-17T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "100",
+          "name": "Kim, Hea Jin",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2013-06-17T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "268",
+          "name": "Garcia, Isidro",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2018-10-02T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "269",
+          "name": "Cruz, Rolando Mendez",
+          "store": "Greensboro",
+          "dept": "Seafood",
+          "start": "2018-10-02T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "321",
+          "name": "Morales, Julio C",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2019-07-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "452",
+          "name": "Castanon Ambrocio, Aura Marina",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2022-06-05T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "455",
+          "name": "Jones, Tylynn R",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2022-06-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "463",
+          "name": "Palma, Yuliana",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2022-06-30T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "474",
+          "name": "Gonzales, Anna V",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2022-08-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "475",
+          "name": "Rivera Lagunes, Jose Luis",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2022-08-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "497",
+          "name": "Castanon Ambrocio, Maria Roxana",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2022-12-22T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "499",
+          "name": "De Leon, Elizabeth",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2023-01-16T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "515",
+          "name": "Ortiz Figueroa, Walter O",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2023-05-22T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "544",
+          "name": "Cruz, Rafaela",
+          "store": "Greensboro",
+          "dept": "Maintenance",
+          "start": "2024-04-15T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "562",
+          "name": "Nguyen, Brynn A",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2024-07-02T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "568",
+          "name": "Gaire Kharel, Kabita",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2024-09-03T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "574",
+          "name": "Carias, Creta",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2024-10-02T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "576",
+          "name": "Ortiz Abarca, Mario",
+          "store": "Greensboro",
+          "dept": "Seafood",
+          "start": "2024-10-24T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "581",
+          "name": "Hernandez Macario, Selvin R",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2024-11-22T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "589",
+          "name": "Chong, Daniel Dan",
+          "store": "Greensboro",
+          "dept": "Administration",
+          "start": "2025-02-27T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "591",
+          "name": "Jo, Jayoung",
+          "store": "Greensboro",
+          "dept": "Receiving",
+          "start": "2025-03-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "604",
+          "name": "Gomez Javier, Cynthia Elizabeth Elizabeth",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2025-05-23T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "620",
+          "name": "Lara Perez, Jose Manuel",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2025-07-03T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "624",
+          "name": "Gonzalez Diaz, Ricardo",
+          "store": "Greensboro",
+          "dept": "Seafood",
+          "start": "2025-07-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "627",
+          "name": "Archie Jr, Donald",
+          "store": "Greensboro",
+          "dept": "Seafood",
+          "start": "2025-07-16T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "638",
+          "name": "Cruz, Sandra",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2025-08-12T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "641",
+          "name": "Rivera Lagunes, Jose Carlos",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2025-08-15T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "642",
+          "name": "Vazquez Chavez, Miguel",
+          "store": "Greensboro",
+          "dept": "Meat",
+          "start": "2025-08-18T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "648",
+          "name": "Anguiano Guillen, Diana",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2025-09-05T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "655",
+          "name": "Sandoval, Jomara",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2025-09-16T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "659",
+          "name": "Rico, Geraldi",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2025-10-03T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "663",
+          "name": "Bonilla Santiago, Mariely",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2025-10-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "666",
+          "name": "Lopez Reynoso, Diana",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2025-10-18T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "668",
+          "name": "Hidalgo Ramirez, Johny Cesar Fernando",
+          "store": "Greensboro",
+          "dept": "Seafood",
+          "start": "2025-10-19T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "677",
+          "name": "Campos-Torres, Angel",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2025-12-13T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "682",
+          "name": "Diaz, Luis Joshua",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2025-12-20T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "683",
+          "name": "Netto, Nishel Mary",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2025-12-29T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "692",
+          "name": "Yee, Lah",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2026-01-13T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "693",
+          "name": "Moo, Hay Blu",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-01-27T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "694",
+          "name": "Luttrell, Gillian",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-01-31T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "695",
+          "name": "Kennedy, Jordan Immanuel",
+          "store": "Greensboro",
+          "dept": "Meat",
+          "start": "2026-02-03T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "696",
+          "name": "Tran, Xuan Thi Thanh",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2026-02-09T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "700",
+          "name": "Cortes Rangel, Maximiliano",
+          "store": "Greensboro",
+          "dept": "Meat",
+          "start": "2026-02-10T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "702",
+          "name": "Mughal, Subhan Ali",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-02-20T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "703",
+          "name": "Ahimakin, Yetin G G",
+          "store": "Greensboro",
+          "dept": "Meat",
+          "start": "2026-02-23T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "707",
+          "name": "Ramirez, Alexis Marie",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-03-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "708",
+          "name": "Cruz Ruiz, Jaqueline Rosibel",
+          "store": "Greensboro",
+          "dept": "Receiving",
+          "start": "2026-03-16T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "710",
+          "name": "Moreno, Juan Manuel",
+          "store": "Greensboro",
+          "dept": "Seafood",
+          "start": "2026-04-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "711",
+          "name": "Cruz Maeda, Paula Yanira",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2026-04-07T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "713",
+          "name": "Cruz Maeda, Estefany",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-04-08T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "716",
+          "name": "Sparks, Samantha Jo",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-04-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "717",
+          "name": "Cruz Maeda, Yuri Haydee",
+          "store": "Greensboro",
+          "dept": "Maintenance",
+          "start": "2026-04-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "719",
+          "name": "Mercenario Fierro, Trigo Antonio",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-04-30T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "720",
+          "name": "Mercenario-Fierro, Zayda",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2026-05-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "721",
+          "name": "Aguirre, Amy Jasmine",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2026-05-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "723",
+          "name": "Marine, Christopher Traevon",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-05-18T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "724",
+          "name": "Colvin, Asia",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2026-05-22T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "725",
+          "name": "Haywood, Santana Macie",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2026-05-23T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "726",
+          "name": "Myint, Eh Soe",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2026-05-28T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "101",
+          "name": "Hernandez, Angel",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2022-12-05T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "118",
+          "name": "Bugreyev, Margaret",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2022-12-21T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "126",
+          "name": "Lopez Santiago, Domingo Elias",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2024-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "133",
+          "name": "Bernal Brito, Cecilia",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2024-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "134",
+          "name": "Lopez Brito, Francisco",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2024-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "139",
+          "name": "Brito Chavez, Jose",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-01-03T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "142",
+          "name": "Matom, Domingo",
+          "store": "Pineville",
+          "dept": "Meat",
+          "start": "2022-12-19T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "143",
+          "name": "Raymundo, Miguel",
+          "store": "Pineville",
+          "dept": "Meat",
+          "start": "2023-01-13T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "144",
+          "name": "Brito, Marvin",
+          "store": "Pineville",
+          "dept": "Meat",
+          "start": "2024-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "152",
+          "name": "Brito Chavez, Francisco Henry",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-01-10T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "153",
+          "name": "Corrio Velasco, Diego",
+          "store": "Pineville",
+          "dept": "Meat",
+          "start": "2023-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "167",
+          "name": "Claros, Santos",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2023-01-23T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "173",
+          "name": "Encarnacion, Dulce Maria",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-01-27T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "186",
+          "name": "Nox, Camilo",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2023-01-30T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "193",
+          "name": "Tran, Tien",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2023-02-16T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "196",
+          "name": "Moradel, Lesbia",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2023-02-18T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "197",
+          "name": "Hernandez, Rosa",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2024-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "200",
+          "name": "Savillon-Moradel, Emely",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-02-23T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "208",
+          "name": "Soliz Brito, Jacinto",
+          "store": "Pineville",
+          "dept": "Seafood",
+          "start": "2023-03-29T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "213",
+          "name": "Hernandez-Castellanos, Sindy",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2023-04-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "216",
+          "name": "Chivalan Reymundo, Juan",
+          "store": "Pineville",
+          "dept": "Seafood",
+          "start": "2023-04-30T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "217",
+          "name": "Bernal Brito, Ana",
+          "store": "Pineville",
+          "dept": "HMR",
+          "start": "2023-05-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "233",
+          "name": "Gasque, Ciara",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2022-12-13T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "253",
+          "name": "Brito, Isaias",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2023-05-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "258",
+          "name": "Perez Marcos, Juan",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-06-19T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "268",
+          "name": "Vorick, Mason",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2023-07-07T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "270",
+          "name": "Cho, Brandon Y",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-07-13T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "275",
+          "name": "Yeza, Mauricio",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-08-04T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "279",
+          "name": "Pak, Sun",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2023-08-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "307",
+          "name": "Nguyen, Xuan Lan Thanh",
+          "store": "Pineville",
+          "dept": "Receiving",
+          "start": "2024-01-02T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "320",
+          "name": "Quitian Garcia, Jesus",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2024-03-03T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "327",
+          "name": "Lopez Sunsin, Dimar Ernesto",
+          "store": "Pineville",
+          "dept": "Seafood",
+          "start": "2024-03-31T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "337",
+          "name": "Park, Agnes Sang",
+          "store": "Pineville",
+          "dept": "Administration",
+          "start": "2022-12-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "339",
+          "name": "Azua, Ismael",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2024-05-22T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "351",
+          "name": "Alvarado Hernandez, Dany",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2024-06-21T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "354",
+          "name": "Perez, Miguel",
+          "store": "Pineville",
+          "dept": "Seafood",
+          "start": "2024-07-12T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "367",
+          "name": "Espinoza, Juan",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2024-08-12T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "376",
+          "name": "Carraway, Terry",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2024-08-09T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "379",
+          "name": "Monge Alvarado, Michelle",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2024-09-04T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "381",
+          "name": "Aquino Quinonez, Yansi Noemi",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2024-08-26T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "393",
+          "name": "Cobena, Viviana",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2024-11-07T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "394",
+          "name": "Capurro, Jorge Luis",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2024-11-07T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "396",
+          "name": "Yang, Golmee",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2024-11-07T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "398",
+          "name": "Castro Valencia, Juan Francisco",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2024-11-27T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "401",
+          "name": "Phyo, Khaing Wai",
+          "store": "Pineville",
+          "dept": "Receiving",
+          "start": "2024-12-10T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "406",
+          "name": "Trujillano Aguero, Lis Caracciola",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2025-01-14T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "415",
+          "name": "Huarha Meza, Flor De Maria",
+          "store": "Pineville",
+          "dept": "HMR",
+          "start": "2025-03-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "420",
+          "name": "Amanbaeva, Umutai",
+          "store": "Pineville",
+          "dept": "Administration",
+          "start": "2025-04-07T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "423",
+          "name": "Reyes, Maximiliano Antonio",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2025-05-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "428",
+          "name": "Bailon Rivas, Santos Junior",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2025-05-28T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "432",
+          "name": "Hernandez Reyes, Maggie",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2025-06-27T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "434",
+          "name": "Lima-Leon, Lisette",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2025-07-24T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "435",
+          "name": "Chivalan Raymundo, Marta Angelica",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2025-08-12T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "436",
+          "name": "Velez Jama, Clara Cecilia",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2025-08-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "438",
+          "name": "Nadkarni, Roochi",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2025-09-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "440",
+          "name": "Cabrera Guzman, Emily Jahayra",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2025-09-08T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "443",
+          "name": "Perez Gallego, Dominga Ester",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2025-10-08T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "444",
+          "name": "Johnson, Kylie",
+          "store": "Pineville",
+          "dept": "Administration",
+          "start": "2025-10-13T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "446",
+          "name": "Vo, Xuan Thuong",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2025-10-28T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "448",
+          "name": "Garcia, Hector",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2025-10-27T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "449",
+          "name": "Hernandez, Mary Joselin Joselin",
+          "store": "Pineville",
+          "dept": "HMR",
+          "start": "2025-10-31T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "451",
+          "name": "Perez Raymundo, Andres",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2025-11-16T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "453",
+          "name": "Rice, Eric Laswahn",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2025-12-04T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "454",
+          "name": "Cevallos Valenzuela, Angeles Maylli",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2025-12-12T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "457",
+          "name": "Robinson, Percy James",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2025-12-18T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "460",
+          "name": "Ream, Sary",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-01-02T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "462",
+          "name": "Truong, Hoang Hiep",
+          "store": "Pineville",
+          "dept": "Seafood",
+          "start": "2026-01-06T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "474",
+          "name": "Azua Roque, Ricardo",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-01-29T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "475",
+          "name": "Yoko, Rummel",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-01-30T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "476",
+          "name": "Quinonez Lara, Martha Cristina",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-02-03T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "477",
+          "name": "An, Taegeun",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-02-12T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "479",
+          "name": "Soto, Angel",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-02-13T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "480",
+          "name": "Knul, H'Rozella",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-02-12T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "481",
+          "name": "Pedrote, Sophie Lynn",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-02-24T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "483",
+          "name": "Amaya Ramos, Haniel Nahin",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-03-02T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "484",
+          "name": "Gonzalez, Marisela",
+          "store": "Pineville",
+          "dept": "Administration",
+          "start": "2026-03-02T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "485",
+          "name": "Hartle, Lorrana Estefani",
+          "store": "Pineville",
+          "dept": "Receiving",
+          "start": "2026-03-17T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "489",
+          "name": "Badr, Kenzi Mohammed",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-04-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "490",
+          "name": "Tomas Matom, Jeremias B",
+          "store": "Pineville",
+          "dept": "Meat",
+          "start": "2026-04-05T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "493",
+          "name": "Green, Faraji S",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-04-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "496",
+          "name": "Erazo Garcia, Amilie Belen",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-04-21T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "497",
+          "name": "Hammer, Phil Alexander",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-04-28T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "499",
+          "name": "Foard, Calista Amanti",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-05-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "500",
+          "name": "Carranza Ospina, Paula Andrea Andrea",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-05-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "501",
+          "name": "Dominguez, Shaunta Elizabeth",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2026-05-22T04:00:00.000Z",
+          "sepDate": "2026-05-23T04:00:00.000Z",
+          "reason": "Resignation"
+        },
+        {
+          "id": "502",
+          "name": "Rojas Vasquez, Yawri Alonso Alonso",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-05-22T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "503",
+          "name": "Jimenez, Gladys Iveth Iveth",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-05-26T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        }
+      ],
+      "previous": [
+        {
+          "id": "31",
+          "name": "Patel, Manisha D",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2008-07-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "63",
+          "name": "Guzman Rivera, Carlos Roberto",
+          "store": "Greensboro",
+          "dept": "Meat",
+          "start": "2011-03-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "66",
+          "name": "Choi, Sun Jeong",
+          "store": "Greensboro",
+          "dept": "Administration",
+          "start": "2011-03-21T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "73",
+          "name": "Herrera, Elmer",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2012-02-17T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "86",
+          "name": "Thach, Sam",
+          "store": "Greensboro",
+          "dept": "Maintenance",
+          "start": "2012-10-17T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "100",
+          "name": "Kim, Hea Jin",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2013-06-17T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "268",
+          "name": "Garcia, Isidro",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2018-10-02T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "269",
+          "name": "Cruz, Rolando Mendez",
+          "store": "Greensboro",
+          "dept": "Seafood",
+          "start": "2018-10-02T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "321",
+          "name": "Morales, Julio C",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2019-07-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "452",
+          "name": "Castanon Ambrocio, Aura Marina",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2022-06-05T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "455",
+          "name": "Jones, Tylynn R",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2022-06-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "463",
+          "name": "Palma, Yuliana",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2022-06-30T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "472",
+          "name": "Villarreal Ferretiz, Abigail",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2022-08-07T04:00:00.000Z",
+          "sepDate": "2026-03-21T04:00:00.000Z",
+          "reason": "Resignation"
+        },
+        {
+          "id": "474",
+          "name": "Gonzales, Anna V",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2022-08-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "475",
+          "name": "Rivera Lagunes, Jose Luis",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2022-08-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "497",
+          "name": "Castanon Ambrocio, Maria Roxana",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2022-12-22T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "499",
+          "name": "De Leon, Elizabeth",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2023-01-16T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "515",
+          "name": "Ortiz Figueroa, Walter O",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2023-05-22T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "544",
+          "name": "Cruz, Rafaela",
+          "store": "Greensboro",
+          "dept": "Maintenance",
+          "start": "2024-04-15T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "562",
+          "name": "Nguyen, Brynn A",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2024-07-02T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "568",
+          "name": "Gaire Kharel, Kabita",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2024-09-03T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "574",
+          "name": "Carias, Creta",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2024-10-02T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "576",
+          "name": "Ortiz Abarca, Mario",
+          "store": "Greensboro",
+          "dept": "Seafood",
+          "start": "2024-10-24T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "581",
+          "name": "Hernandez Macario, Selvin R",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2024-11-22T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "589",
+          "name": "Chong, Daniel Dan",
+          "store": "Greensboro",
+          "dept": "Administration",
+          "start": "2025-02-27T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "591",
+          "name": "Jo, Jayoung",
+          "store": "Greensboro",
+          "dept": "Receiving",
+          "start": "2025-03-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "596",
+          "name": "Daysi, Quintero Rugawa",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2025-04-13T04:00:00.000Z",
+          "sepDate": "2026-05-30T04:00:00.000Z",
+          "reason": "Resignation"
+        },
+        {
+          "id": "604",
+          "name": "Gomez Javier, Cynthia Elizabeth Elizabeth",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2025-05-23T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "620",
+          "name": "Lara Perez, Jose Manuel",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2025-07-03T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "624",
+          "name": "Gonzalez Diaz, Ricardo",
+          "store": "Greensboro",
+          "dept": "Seafood",
+          "start": "2025-07-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "627",
+          "name": "Archie Jr, Donald",
+          "store": "Greensboro",
+          "dept": "Seafood",
+          "start": "2025-07-16T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "638",
+          "name": "Cruz, Sandra",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2025-08-12T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "641",
+          "name": "Rivera Lagunes, Jose Carlos",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2025-08-15T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "642",
+          "name": "Vazquez Chavez, Miguel",
+          "store": "Greensboro",
+          "dept": "Meat",
+          "start": "2025-08-18T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "648",
+          "name": "Anguiano Guillen, Diana",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2025-09-05T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "655",
+          "name": "Sandoval, Jomara",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2025-09-16T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "659",
+          "name": "Rico, Geraldi",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2025-10-03T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "663",
+          "name": "Bonilla Santiago, Mariely",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2025-10-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "666",
+          "name": "Lopez Reynoso, Diana",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2025-10-18T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "668",
+          "name": "Hidalgo Ramirez, Johny Cesar Fernando",
+          "store": "Greensboro",
+          "dept": "Seafood",
+          "start": "2025-10-19T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "677",
+          "name": "Campos-Torres, Angel",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2025-12-13T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "682",
+          "name": "Diaz, Luis Joshua",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2025-12-20T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "683",
+          "name": "Netto, Nishel Mary",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2025-12-29T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "692",
+          "name": "Yee, Lah",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2026-01-13T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "693",
+          "name": "Moo, Hay Blu",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-01-27T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "694",
+          "name": "Luttrell, Gillian",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-01-31T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "695",
+          "name": "Kennedy, Jordan Immanuel",
+          "store": "Greensboro",
+          "dept": "Meat",
+          "start": "2026-02-03T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "696",
+          "name": "Tran, Xuan Thi Thanh",
+          "store": "Greensboro",
+          "dept": "Cashier",
+          "start": "2026-02-09T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "700",
+          "name": "Cortes Rangel, Maximiliano",
+          "store": "Greensboro",
+          "dept": "Meat",
+          "start": "2026-02-10T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "702",
+          "name": "Mughal, Subhan Ali",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-02-20T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "703",
+          "name": "Ahimakin, Yetin G G",
+          "store": "Greensboro",
+          "dept": "Meat",
+          "start": "2026-02-23T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "707",
+          "name": "Ramirez, Alexis Marie",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-03-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "708",
+          "name": "Cruz Ruiz, Jaqueline Rosibel",
+          "store": "Greensboro",
+          "dept": "Receiving",
+          "start": "2026-03-16T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "710",
+          "name": "Moreno, Juan Manuel",
+          "store": "Greensboro",
+          "dept": "Seafood",
+          "start": "2026-04-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "711",
+          "name": "Cruz Maeda, Paula Yanira",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2026-04-07T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "713",
+          "name": "Cruz Maeda, Estefany",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-04-08T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "716",
+          "name": "Sparks, Samantha Jo",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-04-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "717",
+          "name": "Cruz Maeda, Yuri Haydee",
+          "store": "Greensboro",
+          "dept": "Maintenance",
+          "start": "2026-04-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "719",
+          "name": "Mercenario Fierro, Trigo Antonio",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-04-30T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "720",
+          "name": "Mercenario-Fierro, Zayda",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2026-05-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "721",
+          "name": "Aguirre, Amy Jasmine",
+          "store": "Greensboro",
+          "dept": "Grocery",
+          "start": "2026-05-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "722",
+          "name": "Webb, Thomas",
+          "store": "Greensboro",
+          "dept": "Produce",
+          "start": "2026-05-12T04:00:00.000Z",
+          "sepDate": "2026-05-13T04:00:00.000Z",
+          "reason": "Resignation"
+        },
+        {
+          "id": "101",
+          "name": "Hernandez, Angel",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2022-12-05T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "118",
+          "name": "Bugreyev, Margaret",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2022-12-21T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "126",
+          "name": "Lopez Santiago, Domingo Elias",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2024-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "133",
+          "name": "Bernal Brito, Cecilia",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2024-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "134",
+          "name": "Lopez Brito, Francisco",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2024-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "139",
+          "name": "Brito Chavez, Jose",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-01-03T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "142",
+          "name": "Matom, Domingo",
+          "store": "Pineville",
+          "dept": "Meat",
+          "start": "2022-12-19T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "143",
+          "name": "Raymundo, Miguel",
+          "store": "Pineville",
+          "dept": "Meat",
+          "start": "2023-01-13T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "144",
+          "name": "Brito, Marvin",
+          "store": "Pineville",
+          "dept": "Meat",
+          "start": "2024-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "152",
+          "name": "Brito Chavez, Francisco Henry",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-01-10T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "153",
+          "name": "Corrio Velasco, Diego",
+          "store": "Pineville",
+          "dept": "Meat",
+          "start": "2023-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "167",
+          "name": "Claros, Santos",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2023-01-23T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "173",
+          "name": "Encarnacion, Dulce Maria",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-01-27T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "186",
+          "name": "Nox, Camilo",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2023-01-30T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "193",
+          "name": "Tran, Tien",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2023-02-16T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "196",
+          "name": "Moradel, Lesbia",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2023-02-18T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "197",
+          "name": "Hernandez, Rosa",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2024-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "200",
+          "name": "Savillon-Moradel, Emely",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-02-23T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "208",
+          "name": "Soliz Brito, Jacinto",
+          "store": "Pineville",
+          "dept": "Seafood",
+          "start": "2023-03-29T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "213",
+          "name": "Hernandez-Castellanos, Sindy",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2023-04-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "214",
+          "name": "Hannah, Victoria",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2023-04-20T04:00:00.000Z",
+          "sepDate": "2026-05-24T04:00:00.000Z",
+          "reason": "Resignation"
+        },
+        {
+          "id": "216",
+          "name": "Chivalan Reymundo, Juan",
+          "store": "Pineville",
+          "dept": "Seafood",
+          "start": "2023-04-30T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "217",
+          "name": "Bernal Brito, Ana",
+          "store": "Pineville",
+          "dept": "HMR",
+          "start": "2023-05-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "233",
+          "name": "Gasque, Ciara",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2022-12-13T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "253",
+          "name": "Brito, Isaias",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2023-05-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "258",
+          "name": "Perez Marcos, Juan",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-06-19T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "268",
+          "name": "Vorick, Mason",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2023-07-07T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "270",
+          "name": "Cho, Brandon Y",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-07-13T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "275",
+          "name": "Yeza, Mauricio",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2023-08-04T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "279",
+          "name": "Pak, Sun",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2023-08-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "307",
+          "name": "Nguyen, Xuan Lan Thanh",
+          "store": "Pineville",
+          "dept": "Receiving",
+          "start": "2024-01-02T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "320",
+          "name": "Quitian Garcia, Jesus",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2024-03-03T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "327",
+          "name": "Lopez Sunsin, Dimar Ernesto",
+          "store": "Pineville",
+          "dept": "Seafood",
+          "start": "2024-03-31T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "337",
+          "name": "Park, Agnes Sang",
+          "store": "Pineville",
+          "dept": "Administration",
+          "start": "2022-12-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "339",
+          "name": "Azua, Ismael",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2024-05-22T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "351",
+          "name": "Alvarado Hernandez, Dany",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2024-06-21T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "354",
+          "name": "Perez, Miguel",
+          "store": "Pineville",
+          "dept": "Seafood",
+          "start": "2024-07-12T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "367",
+          "name": "Espinoza, Juan",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2024-08-12T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "376",
+          "name": "Carraway, Terry",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2024-08-09T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "379",
+          "name": "Monge Alvarado, Michelle",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2024-09-04T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "381",
+          "name": "Aquino Quinonez, Yansi Noemi",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2024-08-26T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "393",
+          "name": "Cobena, Viviana",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2024-11-07T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "394",
+          "name": "Capurro, Jorge Luis",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2024-11-07T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "396",
+          "name": "Yang, Golmee",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2024-11-07T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "398",
+          "name": "Castro Valencia, Juan Francisco",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2024-11-27T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "401",
+          "name": "Phyo, Khaing Wai",
+          "store": "Pineville",
+          "dept": "Receiving",
+          "start": "2024-12-10T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "406",
+          "name": "Trujillano Aguero, Lis Caracciola",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2025-01-14T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "415",
+          "name": "Huarha Meza, Flor De Maria",
+          "store": "Pineville",
+          "dept": "HMR",
+          "start": "2025-03-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "420",
+          "name": "Amanbaeva, Umutai",
+          "store": "Pineville",
+          "dept": "Administration",
+          "start": "2025-04-07T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "423",
+          "name": "Reyes, Maximiliano Antonio",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2025-05-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "428",
+          "name": "Bailon Rivas, Santos Junior",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2025-05-28T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "432",
+          "name": "Hernandez Reyes, Maggie",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2025-06-27T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "434",
+          "name": "Lima-Leon, Lisette",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2025-07-24T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "435",
+          "name": "Chivalan Raymundo, Marta Angelica",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2025-08-12T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "436",
+          "name": "Velez Jama, Clara Cecilia",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2025-08-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "438",
+          "name": "Nadkarni, Roochi",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2025-09-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "440",
+          "name": "Cabrera Guzman, Emily Jahayra",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2025-09-08T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "443",
+          "name": "Perez Gallego, Dominga Ester",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2025-10-08T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "444",
+          "name": "Johnson, Kylie",
+          "store": "Pineville",
+          "dept": "Administration",
+          "start": "2025-10-13T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "446",
+          "name": "Vo, Xuan Thuong",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2025-10-28T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "448",
+          "name": "Garcia, Hector",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2025-10-27T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "449",
+          "name": "Hernandez, Mary Joselin Joselin",
+          "store": "Pineville",
+          "dept": "HMR",
+          "start": "2025-10-31T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "451",
+          "name": "Perez Raymundo, Andres",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2025-11-16T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "453",
+          "name": "Rice, Eric Laswahn",
+          "store": "Pineville",
+          "dept": "Maintenance",
+          "start": "2025-12-04T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "454",
+          "name": "Cevallos Valenzuela, Angeles Maylli",
+          "store": "Pineville",
+          "dept": "Produce",
+          "start": "2025-12-12T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "457",
+          "name": "Robinson, Percy James",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2025-12-18T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "460",
+          "name": "Ream, Sary",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-01-02T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "462",
+          "name": "Truong, Hoang Hiep",
+          "store": "Pineville",
+          "dept": "Seafood",
+          "start": "2026-01-06T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "471",
+          "name": "Chanthavong, Nicholas",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-01-22T05:00:00.000Z",
+          "sepDate": "2026-04-10T04:00:00.000Z",
+          "reason": "Resignation"
+        },
+        {
+          "id": "474",
+          "name": "Azua Roque, Ricardo",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-01-29T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "475",
+          "name": "Yoko, Rummel",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-01-30T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "476",
+          "name": "Quinonez Lara, Martha Cristina",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-02-03T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "477",
+          "name": "An, Taegeun",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-02-12T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "479",
+          "name": "Soto, Angel",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-02-13T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "480",
+          "name": "Knul, H'Rozella",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-02-12T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "481",
+          "name": "Pedrote, Sophie Lynn",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-02-24T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "483",
+          "name": "Amaya Ramos, Haniel Nahin",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-03-02T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "484",
+          "name": "Gonzalez, Marisela",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-03-02T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "485",
+          "name": "Hartle, Lorrana Estefani",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-03-17T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "489",
+          "name": "Badr, Kenzi Mohammed",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-04-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "490",
+          "name": "Tomas Matom, Jeremias B",
+          "store": "Pineville",
+          "dept": "Meat",
+          "start": "2026-04-05T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "493",
+          "name": "Green, Faraji S",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-04-20T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "495",
+          "name": "Acosta Ruiz, Leangela Mercedes",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-04-20T04:00:00.000Z",
+          "sepDate": "2026-05-20T04:00:00.000Z",
+          "reason": "Termination"
+        },
+        {
+          "id": "496",
+          "name": "Erazo Garcia, Amilie Belen",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-04-21T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "497",
+          "name": "Hammer, Phil Alexander",
+          "store": "Pineville",
+          "dept": "Grocery",
+          "start": "2026-04-28T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "498",
+          "name": "Meza, Cindy",
+          "store": "Pineville",
+          "dept": "Receiving",
+          "start": "2026-04-28T04:00:00.000Z",
+          "sepDate": "2026-05-18T04:00:00.000Z",
+          "reason": "Resignation"
+        },
+        {
+          "id": "499",
+          "name": "Foard, Calista Amanti",
+          "store": "Pineville",
+          "dept": "Cashier",
+          "start": "2026-05-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "68",
+          "name": "Sanchez, Raul",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2010-07-05T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "89",
+          "name": "Park, Esther",
+          "store": "Charlotte",
+          "dept": "Administration",
+          "start": "2011-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "112",
+          "name": "Kim, John Jang Hoi",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2011-12-18T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "144",
+          "name": "Brito, Miguel E",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2012-06-05T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "162",
+          "name": "Lee, Saweng",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2012-11-12T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "282",
+          "name": "Valdez, Martha",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2015-11-09T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "283",
+          "name": "Vuong, Thanh",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2011-10-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "290",
+          "name": "Han, Minji",
+          "store": "Charlotte",
+          "dept": "Administration",
+          "start": "2016-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "299",
+          "name": "Adhikari, Sanjeeta",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2016-04-28T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "302",
+          "name": "Alzoriki, Fatima",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2016-05-25T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "343",
+          "name": "Llamosa Castaneda, Jose Luis",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2017-04-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "345",
+          "name": "Magdaleno, Mayra",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2017-04-23T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "357",
+          "name": "Hernandez, Isaias",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2017-09-07T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "362",
+          "name": "Gabriel, Rona",
+          "store": "Charlotte",
+          "dept": "Receiving",
+          "start": "2018-01-24T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "406",
+          "name": "Gallego Brito, Pedro Fernando",
+          "store": "Charlotte",
+          "dept": "Meat",
+          "start": "2018-10-17T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "423",
+          "name": "Chivalan Pu, Miguel Salomon",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2019-01-14T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "430",
+          "name": "Chimariya, Yani",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2019-02-18T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "441",
+          "name": "Guerrero, Cynthia",
+          "store": "Charlotte",
+          "dept": "Receiving",
+          "start": "2019-05-02T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "448",
+          "name": "Hanif, Mohammad",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2019-05-24T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "454",
+          "name": "Marroquin, Juditt",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2019-07-26T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "457",
+          "name": "Gutierrez, Idalia",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2019-08-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "461",
+          "name": "Bowick, William",
+          "store": "Charlotte",
+          "dept": "Administration",
+          "start": "2019-09-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "470",
+          "name": "Perez Marcos, Ricardo",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2019-12-10T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "502",
+          "name": "Brito, Angel",
+          "store": "Charlotte",
+          "dept": "Meat",
+          "start": "2020-08-24T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "528",
+          "name": "Velasco, Willy P",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2021-04-29T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "544",
+          "name": "Soryz, Christina",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2021-08-02T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "546",
+          "name": "Chivalan Raymundo, Antonio",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2021-08-29T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "571",
+          "name": "Terraza Hernandez, Nicolas Roly",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2022-01-19T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "586",
+          "name": "Perez Gallego, Miguel",
+          "store": "Charlotte",
+          "dept": "Seafood",
+          "start": "2022-02-22T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "604",
+          "name": "Ordonez Mendoza, Cynthia",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2022-06-11T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "608",
+          "name": "Corio Raymundo, Francisco",
+          "store": "Charlotte",
+          "dept": "Seafood",
+          "start": "2022-06-19T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "614",
+          "name": "Cedillo Gallego, Miguel",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2022-08-04T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "615",
+          "name": "Cedillo Gallego, Ana",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2022-08-10T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "641",
+          "name": "Gebru, Tsigherada Petros",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2023-03-13T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "643",
+          "name": "Santiago, Juan Eduardo",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2023-03-15T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "665",
+          "name": "Leon Morales, Heidy",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2024-01-01T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "669",
+          "name": "Desameaux, Buchron",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2024-02-21T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "675",
+          "name": "Ramirez Raymundo, Gaspar",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2024-05-28T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "676",
+          "name": "Giri, Roshni",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2024-05-31T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "679",
+          "name": "Desameau, Raynaldo",
+          "store": "Charlotte",
+          "dept": "Meat",
+          "start": "2024-07-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "680",
+          "name": "Honore, Michael",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2024-07-14T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "687",
+          "name": "Castro, Socorro",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2024-10-17T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "688",
+          "name": "Desameau, Micaisse",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2024-10-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "691",
+          "name": "Hernandez, Jordan",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2024-12-12T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "692",
+          "name": "Bernal Chaves, Jasinto",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2024-12-29T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "693",
+          "name": "Bernal Ceto, Domingo",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2024-12-29T05:00:00.000Z",
+          "sepDate": "2026-04-17T04:00:00.000Z",
+          "reason": "Termination"
+        },
+        {
+          "id": "694",
+          "name": "Chivalan Raymundo, Nehemias Baltazar",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2024-12-29T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "695",
+          "name": "Joel, Andrina Soryz",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2025-02-13T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "697",
+          "name": "Desameau, Sonel",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2025-02-23T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "701",
+          "name": "Santiago, Cristobal Raymundo",
+          "store": "Charlotte",
+          "dept": "Seafood",
+          "start": "2025-04-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "704",
+          "name": "Jean Baptiste, Daniella",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2025-05-13T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "708",
+          "name": "Ixcotoyac, Isaias E",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2025-05-21T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "710",
+          "name": "Corio Raymundo, Gaspar",
+          "store": "Charlotte",
+          "dept": "Seafood",
+          "start": "2025-06-04T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "712",
+          "name": "Acevedo Maldonado, Monserrat",
+          "store": "Charlotte",
+          "dept": "Receiving",
+          "start": "2025-06-26T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "718",
+          "name": "Dorcelus, Jocelyne",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2025-09-04T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "720",
+          "name": "Abrego Oviedo, Bryan",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2025-09-04T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "723",
+          "name": "Hermoso Santiago, Emelia Teresa",
+          "store": "Charlotte",
+          "dept": "Produce",
+          "start": "2025-09-22T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "724",
+          "name": "Ramirez, Sinthia Teresa",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2025-10-08T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "725",
+          "name": "Brito Brito, Miguel Brito",
+          "store": "Charlotte",
+          "dept": "Meat",
+          "start": "2025-10-17T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "726",
+          "name": "Auguste, Karold",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2025-10-21T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "730",
+          "name": "Gallego Brito, Jacinto Bernardino",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2025-11-03T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "731",
+          "name": "Ponce Miranda, Dayanne",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2025-11-18T05:00:00.000Z",
+          "sepDate": "2026-05-28T04:00:00.000Z",
+          "reason": "Resignation"
+        },
+        {
+          "id": "732",
+          "name": "Maldonado, Maria Irma",
+          "store": "Charlotte",
+          "dept": "Seafood",
+          "start": "2025-11-28T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "736",
+          "name": "Martinez, Enrique Pérez",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2026-01-20T05:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "738",
+          "name": "Brito Chavez, Magdalena Emilca",
+          "store": "Charlotte",
+          "dept": "Maintenance",
+          "start": "2026-04-01T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "739",
+          "name": "Alvarez-Luna, Joslyn",
+          "store": "Charlotte",
+          "dept": "Cashier",
+          "start": "2026-04-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        },
+        {
+          "id": "740",
+          "name": "Pickett, Janias Jahnari",
+          "store": "Charlotte",
+          "dept": "Grocery",
+          "start": "2026-04-06T04:00:00.000Z",
+          "sepDate": null,
+          "reason": null
+        }
+      ],
+      "separated": [
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 715,
+          "Employee Name": "Castro Gatica, Domingo",
+          "Store": "Greensboro",
+          "Department": "Produce",
+          "Start Date": "2026-04-17T04:00:00.000Z",
+          "Separation Date": "2026-04-18T04:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 735,
+          "Employee Name": "Ahmed, Hussein Dahir",
+          "Store": "Charlotte",
+          "Department": "Grocery",
+          "Start Date": "2026-01-15T05:00:00.000Z",
+          "Separation Date": "2026-04-12T04:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 564,
+          "Employee Name": "Gonzalez Borjas, Sergio",
+          "Store": "Greensboro",
+          "Department": "Maintenance",
+          "Start Date": "2024-08-02T04:00:00.000Z",
+          "Separation Date": "2026-04-05T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 701,
+          "Employee Name": "Heredia, Xiaomara Guadalupe",
+          "Store": "Greensboro",
+          "Department": "Produce",
+          "Start Date": "2026-02-17T05:00:00.000Z",
+          "Separation Date": "2026-04-11T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 705,
+          "Employee Name": "Reyes, Casandra",
+          "Store": "Greensboro",
+          "Department": "Produce",
+          "Start Date": "2026-02-24T05:00:00.000Z",
+          "Separation Date": "2026-04-11T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 162,
+          "Employee Name": "Guevara, Noe Alfaro",
+          "Store": "Pineville",
+          "Department": "Grocery",
+          "Start Date": "2023-01-13T05:00:00.000Z",
+          "Separation Date": "2026-04-06T04:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 300,
+          "Employee Name": "Calderon, Ana",
+          "Store": "Pineville",
+          "Department": "Administration",
+          "Start Date": "2023-10-16T04:00:00.000Z",
+          "Separation Date": "2026-04-10T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 370,
+          "Employee Name": "Cabrices De De Castro, Cathy",
+          "Store": "Pineville",
+          "Department": "Grocery",
+          "Start Date": "2024-08-19T04:00:00.000Z",
+          "Separation Date": "2026-04-03T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 397,
+          "Employee Name": "Canarte Aguilera, Jennifer O",
+          "Store": "Pineville",
+          "Department": "Receiving",
+          "Start Date": "2024-11-18T05:00:00.000Z",
+          "Separation Date": "2026-04-10T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 491,
+          "Employee Name": "Rush, Juwana",
+          "Store": "Pineville",
+          "Department": "Cashier",
+          "Start Date": "2026-04-06T04:00:00.000Z",
+          "Separation Date": "2026-04-09T04:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 492,
+          "Employee Name": "Rosales-Rodriguez, Angelica Sofia",
+          "Store": "Pineville",
+          "Department": "Cashier",
+          "Start Date": "2026-04-13T04:00:00.000Z",
+          "Separation Date": "2026-04-20T04:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 417,
+          "Employee Name": "Yumet, Audrey M",
+          "Store": "Pineville",
+          "Department": "Cashier",
+          "Start Date": "03/19/2025",
+          "Separation Date": "2026-02-20T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 464,
+          "Employee Name": "Seaz Castro, Julio C",
+          "Store": "Pineville",
+          "Department": "Produce",
+          "Start Date": "01/12/2025",
+          "Separation Date": "2026-01-13T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 458,
+          "Employee Name": "Zamora, Jonathan A",
+          "Store": "Pineville",
+          "Department": "Grocery",
+          "Start Date": "01/01/2026",
+          "Separation Date": "2026-02-05T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 452,
+          "Employee Name": "Blancas De Jesus, Daisy ",
+          "Store": "Pineville",
+          "Department": "Grocery",
+          "Start Date": "11/17/2025",
+          "Separation Date": "2026-02-05T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 269,
+          "Employee Name": "Tran, Calvin ",
+          "Store": "Pineville",
+          "Department": "Cashier",
+          "Start Date": "07/13/2023",
+          "Separation Date": "2026-01-31T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 318,
+          "Employee Name": "Caballero Mosco, Karina ",
+          "Store": "Pineville",
+          "Department": "Maintenance",
+          "Start Date": "03/04/2024",
+          "Separation Date": "2026-01-10T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 455,
+          "Employee Name": "Simpson, Sage ",
+          "Store": "Pineville",
+          "Department": "Grocery",
+          "Start Date": "12/12/2025",
+          "Separation Date": "2026-01-16T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 450,
+          "Employee Name": "Rivas Villalobos, Asly Y",
+          "Store": "Pineville",
+          "Department": "Grocery",
+          "Start Date": "11/04/2025",
+          "Separation Date": "2026-02-05T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 469,
+          "Employee Name": "Sonnarathkesone, Navinh N",
+          "Store": "Pineville",
+          "Department": "Grocery",
+          "Start Date": "01/19/2026",
+          "Separation Date": "2026-02-05T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 364,
+          "Employee Name": "Rahlan, Tri ",
+          "Store": "Pineville",
+          "Department": "Cashier",
+          "Start Date": "08/12/2024",
+          "Separation Date": "2026-01-11T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 433,
+          "Employee Name": "Salazar, Kevin R",
+          "Store": "Pineville",
+          "Department": "Grocery",
+          "Start Date": "07/11/2025",
+          "Separation Date": "2026-01-16T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 231,
+          "Employee Name": "Colby, Alicia ",
+          "Store": "Pineville",
+          "Department": "Cashier",
+          "Start Date": "12/19/2022",
+          "Separation Date": "2026-01-11T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 439,
+          "Employee Name": "Merowit, Kyung H",
+          "Store": "Pineville",
+          "Department": "Cashier",
+          "Start Date": "09/09/2025",
+          "Separation Date": "2026-01-10T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 654,
+          "Employee Name": "Palmeri, Aika Alondra L",
+          "Store": "Greensboro",
+          "Department": "Grocery",
+          "Start Date": "09/15/2025",
+          "Separation Date": "2026-01-17T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 686,
+          "Employee Name": "Rico, Joanna ",
+          "Store": "Greensboro",
+          "Department": "Grocery",
+          "Start Date": "01/05/2026",
+          "Separation Date": "2026-01-13T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 681,
+          "Employee Name": "Hooker, Rebecca L",
+          "Store": "Greensboro",
+          "Department": "Cashier",
+          "Start Date": "12/30/2025",
+          "Separation Date": "2026-01-01T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 586,
+          "Employee Name": "HERNANDEZ SINICO, FLORENCIA ",
+          "Store": "Greensboro",
+          "Department": "Cashier",
+          "Start Date": "01/23/2025",
+          "Separation Date": "2026-01-12T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 667,
+          "Employee Name": "Dominguez Perez, Alfredo ",
+          "Store": "Greensboro",
+          "Department": "Grocery",
+          "Start Date": "10/20/2025",
+          "Separation Date": "2026-02-07T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 690,
+          "Employee Name": "Richard Jr, Darnell R",
+          "Store": "Greensboro",
+          "Department": "Seafood",
+          "Start Date": "01/10/2026",
+          "Separation Date": "2026-01-28T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 629,
+          "Employee Name": "Duenas Reyes, Ashli N",
+          "Store": "Greensboro",
+          "Department": "Produce",
+          "Start Date": "07/18/2025",
+          "Separation Date": "2026-02-21T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 687,
+          "Employee Name": "Marsella, Justin Tyler ",
+          "Store": "Greensboro",
+          "Department": "Seafood",
+          "Start Date": "01/08/2026",
+          "Separation Date": "2026-02-09T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 688,
+          "Employee Name": "Mahieddine Benziane, Douaa ",
+          "Store": "Greensboro",
+          "Department": "Cashier",
+          "Start Date": "01/06/2026",
+          "Separation Date": "2026-01-30T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 698,
+          "Employee Name": "Perez Canales, Avel ",
+          "Store": "Greensboro",
+          "Department": "Seafood",
+          "Start Date": "02/09/2026",
+          "Separation Date": "2026-02-15T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 689,
+          "Employee Name": "Dioselin Careli, Perez Santana ",
+          "Store": "Greensboro",
+          "Department": "Cashier",
+          "Start Date": "01/09/2026",
+          "Separation Date": "2026-01-30T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 685,
+          "Employee Name": "Fonseca Prieto, Kimberly Y",
+          "Store": "Greensboro",
+          "Department": "Grocery",
+          "Start Date": "01/01/2026",
+          "Separation Date": "2026-01-12T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 678,
+          "Employee Name": "Pineda Yepez, Cristian A",
+          "Store": "Greensboro",
+          "Department": "Seafood",
+          "Start Date": "12/12/2025",
+          "Separation Date": "2026-01-04T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 699,
+          "Employee Name": "Villalona Melo, Angel D",
+          "Store": "Greensboro",
+          "Department": "Grocery",
+          "Start Date": "02/09/2026",
+          "Separation Date": "2026-02-12T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 652,
+          "Employee Name": "Chitic Guarchaj, Gedio Madio ",
+          "Store": "Greensboro",
+          "Department": "Produce",
+          "Start Date": "09/12/2025",
+          "Separation Date": "2026-01-12T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 664,
+          "Employee Name": "Ingram, Allerich Eric ",
+          "Store": "Greensboro",
+          "Department": "Seafood",
+          "Start Date": "10/07/2025",
+          "Separation Date": "2026-01-12T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 514,
+          "Employee Name": "Guarchai Oxlai, Maria R",
+          "Store": "Greensboro",
+          "Department": "Maintenance",
+          "Start Date": "05/22/2023",
+          "Separation Date": "2026-01-05T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 364,
+          "Employee Name": "Nguyen, Mongthuy T",
+          "Store": "Greensboro",
+          "Department": "Cashier",
+          "Start Date": "12/30/2020",
+          "Separation Date": "2026-01-12T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 558,
+          "Employee Name": "Perez Molina, Raymundo ",
+          "Store": "Greensboro",
+          "Department": "Meat",
+          "Start Date": "06/17/2024",
+          "Separation Date": "2026-02-11T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 721,
+          "Employee Name": "Matom, Francisco Raymundo ",
+          "Store": "Charlotte",
+          "Department": "Meat",
+          "Start Date": "09/17/2025",
+          "Separation Date": "2026-01-06T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 711,
+          "Employee Name": "Corio Raymundo, Pedro ",
+          "Store": "Charlotte",
+          "Department": "Grocery",
+          "Start Date": "06/04/2025",
+          "Separation Date": "2026-01-14T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 677,
+          "Employee Name": "Joseph, Odany ",
+          "Store": "Charlotte",
+          "Department": "Maintenance",
+          "Start Date": "06/05/2024",
+          "Separation Date": "2026-01-24T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 729,
+          "Employee Name": "Caicedo Bermudez, Esteban ",
+          "Store": "Charlotte",
+          "Department": "Grocery",
+          "Start Date": "11/06/2025",
+          "Separation Date": "2026-01-18T05:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Employee ID": 734,
+          "Employee Name": "Mora Ramirez, Luis A",
+          "Store": "Charlotte",
+          "Department": "Meat",
+          "Start Date": "01/08/2026",
+          "Separation Date": "2026-02-05T05:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-30T04:00:00.000Z",
+          "Employee ID": 189,
+          "Employee Name": "Simon Tzikin, Anacleto",
+          "Store": "Pineville",
+          "Department": "Meat",
+          "Start Date": "2023-02-13T05:00:00.000Z",
+          "Separation Date": "2026-04-04T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-30T04:00:00.000Z",
+          "Employee ID": 715,
+          "Employee Name": "Castro Gatica, Domingo",
+          "Store": "Greensboro",
+          "Department": "Produce",
+          "Start Date": "2026-04-17T04:00:00.000Z",
+          "Separation Date": "2026-04-18T04:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-04-30T04:00:00.000Z",
+          "Employee ID": 577,
+          "Employee Name": "Cruz Garcia, Rubi",
+          "Store": "Greensboro",
+          "Department": "Produce",
+          "Start Date": "2024-10-24T04:00:00.000Z",
+          "Separation Date": "2026-04-23T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-30T04:00:00.000Z",
+          "Employee ID": 640,
+          "Employee Name": "Aung, Mah Aye",
+          "Store": "Greensboro",
+          "Department": "Cashier",
+          "Start Date": "2025-08-13T04:00:00.000Z",
+          "Separation Date": "2026-04-19T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-30T04:00:00.000Z",
+          "Employee ID": 660,
+          "Employee Name": "Gonzalez Bernal, Henry Eduardo",
+          "Store": "Greensboro",
+          "Department": "Grocery",
+          "Start Date": "2025-10-06T04:00:00.000Z",
+          "Separation Date": "2026-04-21T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-04-30T04:00:00.000Z",
+          "Employee ID": 714,
+          "Employee Name": "Aljic, Sabina",
+          "Store": "Greensboro",
+          "Department": "Produce",
+          "Start Date": "2026-04-16T04:00:00.000Z",
+          "Separation Date": "2026-04-21T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Employee ID": 722,
+          "Employee Name": "Webb, Thomas",
+          "Store": "Greensboro",
+          "Department": "Produce",
+          "Start Date": "2026-05-12T04:00:00.000Z",
+          "Separation Date": "2026-05-13T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Employee ID": 531,
+          "Employee Name": "Aguilar Muy, Hector A",
+          "Store": "Greensboro",
+          "Department": "Meat",
+          "Start Date": "2023-11-06T05:00:00.000Z",
+          "Separation Date": "2026-05-05T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Employee ID": 712,
+          "Employee Name": "Hernandez Ramirez, Carlos Adalberto",
+          "Store": "Greensboro",
+          "Department": "Maintenance",
+          "Start Date": "2026-04-08T04:00:00.000Z",
+          "Separation Date": "2026-05-03T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Employee ID": 411,
+          "Employee Name": "Stepnoski, Joshua",
+          "Store": "Pineville",
+          "Department": "Cashier",
+          "Start Date": "2025-02-10T05:00:00.000Z",
+          "Separation Date": "2026-05-04T04:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Employee ID": 459,
+          "Employee Name": "Moreno, Chelsea Jazmin",
+          "Store": "Pineville",
+          "Department": "Cashier",
+          "Start Date": "2025-12-29T05:00:00.000Z",
+          "Separation Date": "2026-05-11T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Employee ID": 461,
+          "Employee Name": "Montano Mora, Raquel Josefina",
+          "Store": "Pineville",
+          "Department": "Maintenance",
+          "Start Date": "2026-01-06T05:00:00.000Z",
+          "Separation Date": "2026-05-18T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Employee ID": 463,
+          "Employee Name": "Caballero Mosco, Karina Patricia",
+          "Store": "Pineville",
+          "Department": "Maintenance",
+          "Start Date": "2026-01-05T05:00:00.000Z",
+          "Separation Date": "2026-05-18T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Employee ID": 465,
+          "Employee Name": "Ibanez Rueda, Suraimi T",
+          "Store": "Pineville",
+          "Department": "Produce",
+          "Start Date": "2026-01-14T05:00:00.000Z",
+          "Separation Date": "2026-04-27T04:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Employee ID": 466,
+          "Employee Name": "Poulot Vazquez, Rodney",
+          "Store": "Pineville",
+          "Department": "Grocery",
+          "Start Date": "2026-01-14T05:00:00.000Z",
+          "Separation Date": "2026-04-27T04:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Employee ID": 487,
+          "Employee Name": "Barron-Vega, Mario Alberto",
+          "Store": "Pineville",
+          "Department": "Maintenance",
+          "Start Date": "2026-03-16T04:00:00.000Z",
+          "Separation Date": "2026-05-18T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Employee ID": 488,
+          "Employee Name": "Jones, Zykeerah",
+          "Store": "Pineville",
+          "Department": "Grocery",
+          "Start Date": "2026-04-06T04:00:00.000Z",
+          "Separation Date": "2026-04-27T04:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Employee ID": 501,
+          "Employee Name": "Dominguez, Shaunta Elizabeth",
+          "Store": "Pineville",
+          "Department": "Maintenance",
+          "Start Date": "2026-05-22T04:00:00.000Z",
+          "Separation Date": "2026-05-23T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Employee ID": 472,
+          "Employee Name": "Villarreal Ferretiz, Abigail",
+          "Store": "Greensboro",
+          "Department": "Cashier",
+          "Start Date": "2022-08-07T04:00:00.000Z",
+          "Separation Date": "2026-03-21T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Employee ID": 596,
+          "Employee Name": "Daysi, Quintero Rugawa",
+          "Store": "Greensboro",
+          "Department": "Grocery",
+          "Start Date": "2025-04-13T04:00:00.000Z",
+          "Separation Date": "2026-05-30T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Employee ID": 722,
+          "Employee Name": "Webb, Thomas",
+          "Store": "Greensboro",
+          "Department": "Produce",
+          "Start Date": "2026-05-12T04:00:00.000Z",
+          "Separation Date": "2026-05-13T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Employee ID": 214,
+          "Employee Name": "Hannah, Victoria",
+          "Store": "Pineville",
+          "Department": "Cashier",
+          "Start Date": "2023-04-20T04:00:00.000Z",
+          "Separation Date": "2026-05-24T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Employee ID": 471,
+          "Employee Name": "Chanthavong, Nicholas",
+          "Store": "Pineville",
+          "Department": "Grocery",
+          "Start Date": "2026-01-22T05:00:00.000Z",
+          "Separation Date": "2026-04-10T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Employee ID": 495,
+          "Employee Name": "Acosta Ruiz, Leangela Mercedes",
+          "Store": "Pineville",
+          "Department": "Grocery",
+          "Start Date": "2026-04-20T04:00:00.000Z",
+          "Separation Date": "2026-05-20T04:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Employee ID": 498,
+          "Employee Name": "Meza, Cindy",
+          "Store": "Pineville",
+          "Department": "Receiving",
+          "Start Date": "2026-04-28T04:00:00.000Z",
+          "Separation Date": "2026-05-18T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Employee ID": 693,
+          "Employee Name": "Bernal Ceto, Domingo",
+          "Store": "Charlotte",
+          "Department": "Grocery",
+          "Start Date": "2024-12-29T05:00:00.000Z",
+          "Separation Date": "2026-04-17T04:00:00.000Z",
+          "Reason for Separation": "Termination"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Employee ID": 731,
+          "Employee Name": "Ponce Miranda, Dayanne",
+          "Store": "Charlotte",
+          "Department": "Cashier",
+          "Start Date": "2025-11-18T05:00:00.000Z",
+          "Separation Date": "2026-05-28T04:00:00.000Z",
+          "Reason for Separation": "Resignation"
+        }
+      ],
+      "ytd": [
+        {
+          "Period End Date": "2026-01-07T05:00:00.000Z",
+          "Year": 2026,
+          "Store": "Greensboro",
+          "Headcount (Period End)": 69,
+          "Separations": 3,
+          "Resignations": 3,
+          "Terminations": null,
+          "Prev Period Headcount": 68,
+          "Notes": "Period 1"
+        },
+        {
+          "Period End Date": "2026-01-07T05:00:00.000Z",
+          "Year": 2026,
+          "Store": "Charlotte",
+          "Headcount (Period End)": 71,
+          "Separations": 1,
+          "Resignations": null,
+          "Terminations": 1,
+          "Prev Period Headcount": 73,
+          "Notes": "Period 1"
+        },
+        {
+          "Period End Date": "2026-01-07T05:00:00.000Z",
+          "Year": 2026,
+          "Store": "Pineville",
+          "Headcount (Period End)": 101,
+          "Separations": 0,
+          "Resignations": null,
+          "Terminations": null,
+          "Prev Period Headcount": 98,
+          "Notes": "Period 1"
+        },
+        {
+          "Period End Date": "2026-02-06T05:00:00.000Z",
+          "Year": 2026,
+          "Store": "Greensboro",
+          "Headcount (Period End)": 74,
+          "Separations": 10,
+          "Resignations": 6,
+          "Terminations": 4,
+          "Prev Period Headcount": 69,
+          "Notes": "Period 2"
+        },
+        {
+          "Period End Date": "2026-02-06T05:00:00.000Z",
+          "Year": 2026,
+          "Store": "Charlotte",
+          "Headcount (Period End)": 69,
+          "Separations": 4,
+          "Resignations": 1,
+          "Terminations": 3,
+          "Prev Period Headcount": 71,
+          "Notes": "Period 2"
+        },
+        {
+          "Period End Date": "2026-02-06T05:00:00.000Z",
+          "Year": 2026,
+          "Store": "Pineville",
+          "Headcount (Period End)": 100,
+          "Separations": 12,
+          "Resignations": 3,
+          "Terminations": 9,
+          "Prev Period Headcount": 101,
+          "Notes": "Period 2"
+        },
+        {
+          "Period End Date": "2026-02-20T05:00:00.000Z",
+          "Year": 2026,
+          "Store": "Greensboro",
+          "Headcount (Period End)": 71,
+          "Separations": 5,
+          "Resignations": 5,
+          "Terminations": null,
+          "Prev Period Headcount": 74,
+          "Notes": "Period 3"
+        },
+        {
+          "Period End Date": "2026-02-20T05:00:00.000Z",
+          "Year": 2026,
+          "Store": "Charlotte",
+          "Headcount (Period End)": 70,
+          "Separations": 0,
+          "Resignations": null,
+          "Terminations": null,
+          "Prev Period Headcount": 69,
+          "Notes": "Period 3"
+        },
+        {
+          "Period End Date": "2026-02-20T05:00:00.000Z",
+          "Year": 2026,
+          "Store": "Pineville",
+          "Headcount (Period End)": 101,
+          "Separations": 1,
+          "Resignations": 1,
+          "Terminations": null,
+          "Prev Period Headcount": 100,
+          "Notes": "Period 3"
+        },
+        {
+          "Period End Date": "2026-03-06T05:00:00.000Z",
+          "Year": 2026,
+          "Store": "Greensboro",
+          "Headcount (Period End)": 71,
+          "Separations": 1,
+          "Resignations": 1,
+          "Terminations": null,
+          "Prev Period Headcount": 71,
+          "Notes": "Period 4"
+        },
+        {
+          "Period End Date": "2026-03-06T05:00:00.000Z",
+          "Year": 2026,
+          "Store": "Charlotte",
+          "Headcount (Period End)": 70,
+          "Separations": 0,
+          "Resignations": null,
+          "Terminations": null,
+          "Prev Period Headcount": 69,
+          "Notes": "Period 4"
+        },
+        {
+          "Period End Date": "2026-03-06T05:00:00.000Z",
+          "Year": 2026,
+          "Store": "Pineville",
+          "Headcount (Period End)": 100,
+          "Separations": 0,
+          "Resignations": null,
+          "Terminations": null,
+          "Prev Period Headcount": 100,
+          "Notes": "Period 4"
+        },
+        {
+          "Period End Date": "2026-03-19T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Greensboro",
+          "Headcount (Period End)": 69,
+          "Separations": 0,
+          "Resignations": null,
+          "Terminations": null,
+          "Prev Period Headcount": 71,
+          "Notes": "Period 5"
+        },
+        {
+          "Period End Date": "2026-03-19T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Charlotte",
+          "Headcount (Period End)": 70,
+          "Separations": 0,
+          "Resignations": null,
+          "Terminations": null,
+          "Prev Period Headcount": 70,
+          "Notes": "Period 5"
+        },
+        {
+          "Period End Date": "2026-03-19T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Pineville",
+          "Headcount (Period End)": 101,
+          "Separations": 0,
+          "Resignations": null,
+          "Terminations": null,
+          "Prev Period Headcount": 100,
+          "Notes": "Period 5"
+        },
+        {
+          "Period End Date": "2026-04-03T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Greensboro",
+          "Headcount (Period End)": 69,
+          "Separations": 0,
+          "Resignations": null,
+          "Terminations": null,
+          "Prev Period Headcount": 70,
+          "Notes": "Period 6"
+        },
+        {
+          "Period End Date": "2026-04-03T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Charlotte",
+          "Headcount (Period End)": 70,
+          "Separations": 0,
+          "Resignations": null,
+          "Terminations": null,
+          "Prev Period Headcount": 70,
+          "Notes": "Period 6"
+        },
+        {
+          "Period End Date": "2026-04-03T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Pineville",
+          "Headcount (Period End)": 105,
+          "Separations": 0,
+          "Resignations": null,
+          "Terminations": null,
+          "Prev Period Headcount": 101,
+          "Notes": "Period 6"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Greensboro",
+          "Headcount (Period End)": 64,
+          "Separations": 4,
+          "Resignations": 3,
+          "Terminations": 1,
+          "Prev Period Headcount": 61,
+          "Notes": "Auto-logged 04/29/2026 10:16"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Charlotte",
+          "Headcount (Period End)": 67,
+          "Separations": 1,
+          "Resignations": 0,
+          "Terminations": 1,
+          "Prev Period Headcount": 67,
+          "Notes": "Auto-logged 04/29/2026 10:16"
+        },
+        {
+          "Period End Date": "2026-04-29T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Pineville",
+          "Headcount (Period End)": 90,
+          "Separations": 6,
+          "Resignations": 3,
+          "Terminations": 3,
+          "Prev Period Headcount": 89,
+          "Notes": "Auto-logged 04/29/2026 10:16"
+        },
+        {
+          "Period End Date": "2026-04-30T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Greensboro",
+          "Headcount (Period End)": 62,
+          "Separations": 5,
+          "Resignations": 4,
+          "Terminations": 1,
+          "Prev Period Headcount": 64,
+          "Notes": "Auto-logged 05/08/2026 13:36"
+        },
+        {
+          "Period End Date": "2026-04-30T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Charlotte",
+          "Headcount (Period End)": 67,
+          "Separations": 0,
+          "Resignations": 0,
+          "Terminations": 0,
+          "Prev Period Headcount": 67,
+          "Notes": "Auto-logged 05/08/2026 13:36"
+        },
+        {
+          "Period End Date": "2026-04-30T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Pineville",
+          "Headcount (Period End)": 93,
+          "Separations": 1,
+          "Resignations": 1,
+          "Terminations": 0,
+          "Prev Period Headcount": 89,
+          "Notes": "Auto-logged 05/08/2026 13:36"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Greensboro",
+          "Headcount (Period End)": 61,
+          "Separations": 3,
+          "Resignations": 3,
+          "Terminations": 0,
+          "Prev Period Headcount": 60,
+          "Notes": "Auto-logged 05/22/2026 16:10"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Charlotte",
+          "Headcount (Period End)": 67,
+          "Separations": 0,
+          "Resignations": 0,
+          "Terminations": 0,
+          "Prev Period Headcount": 67,
+          "Notes": "Auto-logged 05/22/2026 16:10"
+        },
+        {
+          "Period End Date": "2026-05-15T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Pineville",
+          "Headcount (Period End)": 87,
+          "Separations": 8,
+          "Resignations": 4,
+          "Terminations": 4,
+          "Prev Period Headcount": 85,
+          "Notes": "Auto-logged 05/22/2026 16:10"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Greensboro",
+          "Headcount (Period End)": 63,
+          "Separations": 3,
+          "Resignations": 3,
+          "Terminations": 0,
+          "Prev Period Headcount": 59,
+          "Notes": "Auto-logged 06/05/2026 12:02"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Charlotte",
+          "Headcount (Period End)": 66,
+          "Separations": 2,
+          "Resignations": 1,
+          "Terminations": 1,
+          "Prev Period Headcount": 65,
+          "Notes": "Auto-logged 06/05/2026 12:02"
+        },
+        {
+          "Period End Date": "2026-05-29T04:00:00.000Z",
+          "Year": 2026,
+          "Store": "Pineville",
+          "Headcount (Period End)": 86,
+          "Separations": 5,
+          "Resignations": 4,
+          "Terminations": 1,
+          "Prev Period Headcount": 83,
+          "Notes": "Auto-logged 06/05/2026 12:02"
+        }
+      ],
+      "vacancy": [
+        {
+          "No": 1,
+          "Position": "Produce Associate (Root)",
+          "Department": "Produce",
+          "Store": "Pineville",
+          "Type": "Replacement"
+        },
+        {
+          "No": 2,
+          "Position": "Produce Associate (Asian Veg)",
+          "Department": "Produce",
+          "Store": "Pineville",
+          "Type": "Replacement"
+        },
+        {
+          "No": 3,
+          "Position": "Produce Associate (Fruits)",
+          "Department": "Produce",
+          "Store": "Pineville",
+          "Type": "Replacement"
+        },
+        {
+          "No": 4,
+          "Position": "Kitchen",
+          "Department": "HMR",
+          "Store": "Pineville",
+          "Type": "Replacement"
+        },
+        {
+          "No": 5,
+          "Position": "Meat Associcate",
+          "Department": "Meat",
+          "Store": "Pineville",
+          "Type": "Replacement"
+        },
+        {
+          "No": 6,
+          "Position": "Grocery Associate",
+          "Department": "Grocery",
+          "Store": "Pineville",
+          "Type": "Replacement"
+        },
+        {
+          "No": 7,
+          "Position": "Cleaning & Sanitator ",
+          "Department": "Maintenance",
+          "Store": "Pineville",
+          "Type": "Replacement"
+        },
+        {
+          "No": 8,
+          "Position": "Cashier ",
+          "Department": "Cashier",
+          "Store": "Pineville",
+          "Type": "Replacement"
+        },
+        {
+          "No": 9,
+          "Position": "Produce Associate",
+          "Department": "Produce",
+          "Store": "Greensboro",
+          "Type": "Replacement"
+        },
+        {
+          "No": 10,
+          "Position": "Grocery Associate",
+          "Department": "Grocery",
+          "Store": "Greensboro",
+          "Type": "Additional"
+        },
+        {
+          "No": 11,
+          "Position": "Grocery Associate",
+          "Department": "Grocery",
+          "Store": "Greensboro",
+          "Type": "Additional"
+        },
+        {
+          "No": 12,
+          "Position": "Cashier ",
+          "Department": "Cashier",
+          "Store": "Greensboro",
+          "Type": "Replacement"
+        },
+        {
+          "No": 13,
+          "Position": "Seafood Associate ",
+          "Department": "Seafood",
+          "Store": "Greensboro",
+          "Type": "Replacement"
+        },
+        {
+          "No": 14,
+          "Position": "Meat Associate",
+          "Department": "Meat",
+          "Store": "Charlotte",
+          "Type": "Replacement"
+        },
+        {
+          "No": 15,
+          "Position": "Produce Associate",
+          "Department": "Produce",
+          "Store": "Charlotte",
+          "Type": "Replacement"
+        },
+        {
+          "No": 16,
+          "Position": "Produce Associate",
+          "Department": "Produce",
+          "Store": "Charlotte",
+          "Type": "Replacement"
+        }
+      ]
+    }
+  ]
+}
